@@ -104,7 +104,6 @@ public class Janela extends JFrame {
         //FIM MENU
 
         // Adiciona a desvie.Janela o Painel "fase"
-        JOptionPane.showMessageDialog(null, "Teste", "Teste", 1);
         this.add(fase);
         // Configs da desvie.Janela
         this.setTitle("desvie.Desvie do desvie.Inimigo");
