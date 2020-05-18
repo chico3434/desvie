@@ -2,7 +2,7 @@ package desvie;
 
 public class Desvie {
     public static void main(String[] args) {
-        Janela j = new Janela();
-        j.setVisible(true);
+        Window window = new Window();
+        window.setVisible(true);
     }
 }
